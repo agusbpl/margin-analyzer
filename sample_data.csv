@@ -1,0 +1,10 @@
+Concepto,Valor,Base_Referencia,Consumo_Unitario,Tipo,Es_Erogable
+Precio de venta,25000,1,1,Ingreso,Si
+Tela,350000,70,0.75,Variable,Si
+Insumos estampa,450,1,1,Variable,Si
+Remuneracion operarios incentivo,300,1,1,Variable,Si
+Consumo electrico,50,1,1,Variable,Si
+Impuestos,0.05,Precio_Venta,1,Variable,Si
+Alquiler,600000,1,1,Fijo,Si
+Amortizaciones,180000,1,1,Fijo,No
+Sueldos,1800000,1,1,Fijo,Si
