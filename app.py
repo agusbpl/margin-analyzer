@@ -3,8 +3,8 @@ import pandas as pd
 import plotly.graph_objects as go
 import streamlit as st
 
-st.set_page_config(page_title="EquilibriumInsight - Break-even Analysis", layout="wide")
-st.write("# EquilibriumInsight: Análisis de Punto de Equilibrio")
+st.set_page_config(page_title="MarginAnalyzer - Break-even Analysis", layout="wide")
+st.write("# MarginAnalyzer: Análisis de Punto de Equilibrio")
 
 archivo_cargado = st.file_uploader(
     label="Sube tu archivo CSV", type=".csv", accept_multiple_files=False

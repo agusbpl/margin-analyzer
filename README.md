@@ -1,6 +1,6 @@
-# EquilibriumInsight 📊
+# MarginAnalyzer 📊
 
-EquilibriumInsight is a professional **Break-even Analysis & Profit Simulator** built with Python and Streamlit. It helps businesses and entrepreneurs visualize their financial health by calculating key indicators like the break-even point, shutdown point, and profit targets.
+MarginAnalyzer is a professional **Break-even Analysis & Profit Simulator** built with Python and Streamlit. It helps businesses and entrepreneurs visualize their financial health by calculating key indicators like the break-even point, shutdown point, and profit targets.
 
 ## 🚀 Features
 
@@ -21,8 +21,8 @@ EquilibriumInsight is a professional **Break-even Analysis & Profit Simulator** 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/EquilibriumInsight.git
-   cd EquilibriumInsight
+   git clone git@github.com:agusbpl/margin-analyzer.git
+   cd margin-analyzer
    ```
 
 2. Install dependencies:
